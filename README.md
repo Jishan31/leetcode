@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jishan31/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -32,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
