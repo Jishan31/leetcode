@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jishan31/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Jishan31/leetcode/tree/master/0048-rotate-image) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jishan31/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jishan31/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Jishan31/leetcode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Jishan31/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
