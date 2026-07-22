@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jishan31/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jishan31/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jishan31/leetcode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
