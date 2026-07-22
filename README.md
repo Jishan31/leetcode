@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jishan31/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Jishan31/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Jishan31/leetcode/tree/master/0054-spiral-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -48,8 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jishan31/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Jishan31/leetcode/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Jishan31/leetcode/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Jishan31/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
