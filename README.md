@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jishan31/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishan31/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jishan31/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jishan31/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jishan31/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jishan31/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
