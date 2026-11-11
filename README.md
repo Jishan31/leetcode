@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jishan31/leetcode/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jishan31/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jishan31/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jishan31/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jishan31/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jishan31/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
