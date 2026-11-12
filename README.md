@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jishan31/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Jishan31/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jishan31/leetcode/tree/master/0054-spiral-matrix) |
+| [0120-triangle](https://github.com/Jishan31/leetcode/tree/master/0120-triangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishan31/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jishan31/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jishan31/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jishan31/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Jishan31/leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
